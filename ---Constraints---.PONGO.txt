@@ -1,0 +1,4 @@
+---Constraints---
+Buttons: 12x12x7.3mm
+OLED: 1.3" Screen space, 33.7x35.5mm
+Arduino Nano: 45x18x5mm, Pin height: ~10mm
